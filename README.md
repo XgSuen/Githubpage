@@ -47,4 +47,4 @@ Ph.D. student in Computer Science and Technology at Southeast University. My res
 ## Links
 
 - Personal homepage: enable GitHub Pages for this repository and publish `index.html`
-- CV source: [`cv_xigang_sun_cn.tex`](./cv_xigang_sun_cn.tex)
+- OpenReview: [Xigang Sun](https://openreview.net/profile?id=%7EXigang_Sun1)
