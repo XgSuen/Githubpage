@@ -185,6 +185,13 @@ h4 {
   font-size: 18px;
 }
 
+.lead a {
+  color: var(--blue);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
 .hero-actions {
   display: flex;
   flex-wrap: wrap;
