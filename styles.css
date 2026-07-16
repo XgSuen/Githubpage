@@ -79,7 +79,7 @@ main {
 
 .hero {
   display: grid;
-  grid-template-columns: 290px minmax(0, 1fr);
+  grid-template-columns: 230px minmax(0, 1fr);
   gap: clamp(28px, 5vw, 56px);
   align-items: start;
   padding: 34px 0 46px;
@@ -89,6 +89,7 @@ main {
   order: -1;
   position: sticky;
   top: 86px;
+  width: 230px;
   padding: 22px;
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -98,6 +99,7 @@ main {
 
 .portrait {
   width: 100%;
+  max-width: 186px;
   aspect-ratio: 4 / 5;
   margin: 0 auto 20px;
   border-radius: 6px;
@@ -419,6 +421,7 @@ footer p:last-child {
 
   .profile-panel {
     position: static;
+    width: 100%;
     max-width: 430px;
   }
 }
